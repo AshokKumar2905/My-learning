@@ -43,8 +43,7 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 ## 📂 Repository Structure
 
  My-learning/
-│
-├── [README.md](README.md/)
+├── [README.md](README.md)
 │
 ├── [Linux](Linux/)
 │   ├── basics.md
