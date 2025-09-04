@@ -64,8 +64,8 @@ My-learning/
 │   ├── deployments.md  
 │  
 ├── [Programming/Python](Programming/)
-   ├── basics.md  
-   ├── oops.md  
+│   ├── basics.md  
+│   ├── oops.md  
 
 ---
 
