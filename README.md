@@ -42,14 +42,11 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 
 ## 📂 Repository Structure
 
-| Category      | Files / Submodules                                                                 |
-|---------------|------------------------------------------------------------------------------------|
-| [**Linux**](Linux/)    | `basics.md`, `commands.md`, `notes.md`                                             |
-| [**AWS**](AWS/)       | `ec2.md`, `s3.md`, `vpc.md`, `iam.md`, `efs.md`                                    |
-| [**Kubernetes**](Kubernetes/)| `basics.md`, `pods.md`, `services.md`, `deployments.md`                            |
-| [**Programming**](Programming/)| `basics.md`, `oops.md`                                                            |
-| [**Root Files**](README.md/)| `README.md`                                                                        |
-
+[**Linux**](Linux/)     
+[**AWS**](AWS/)        
+[**Kubernetes**](Kubernetes/)
+[**Programming**](Programming/) 
+[**Root Files**](README.md/)                                                                
 
 ---
 
@@ -57,7 +54,7 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 - ⚙️ Learn **Terraform** and **Ansible**  
 - 🚀 Build **CI/CD pipelines** with GitHub Actions & Jenkins  
 - 🐳 Master **Docker & Kubernetes (Advanced Concepts)**  
-- ☁️ Explore **AWS Advanced Services (EKS, RDS, CloudFront, etc.)**
+- ☁️ Explore **AWS Advanced Services (EKS)**
   
 HEAD
 30ecde8 (Resolved README.md conflict and updated file)
