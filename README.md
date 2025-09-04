@@ -42,11 +42,11 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 
 ## 📂 Repository Structure
 
-[**Linux**](Linux/)/  
-[**AWS**](AWS/)/
-[**Kubernetes**](Kubernetes/)/
-[**Programming**](Programming/)/ 
-[**Root Files**](README.md/)/                                                         
+[**Linux**](Linux/)
+[**AWS**](AWS/)
+[**Kubernetes**](Kubernetes/)
+[**Programming**](Programming/) 
+[**Root Files**](README.md/)                                                  
 
 ---
 
