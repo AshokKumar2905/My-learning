@@ -1,19 +1,47 @@
-# My-learning
-All my learning notes and projects
-# 📘 My Learning Journey
+# 📘 My Learning Repository
 
-This repository contains my learning notes, hands-on practice, and resources from different courses and self-study.  
-I’m building this repo as my personal **knowledge base** to track my growth in **Linux, AWS, Kubernetes, Git, and DevOps**.
+This repository contains all my notes, projects, and practice work from the courses I completed on **Udemy**.
 
----
+## ✅ Completed Courses
 
-## 📂 Contents
+- The Ultimate Linux Bootcamp for DevOps SRE & Cloud Engineers
+- AWS Certified Solutions Architect - Associate 2025 [NEW]
+- Kubernetes for the Absolute Beginners - Hands-on
+- 100 Days of Code: The Complete Python Pro Bootcamp
 
-- [Linux Bootcamp Notes](Linux-Bootcamp.md)
-- [AWS Solutions Architect Notes](AWS-Solutions-Architect.md)
-- [Kubernetes Beginner Notes](Kubernetes-Beginners.md)
-- [Git Learning Notes](Git-Learning.md)
+## 📂 Repository Structure
 
----
-
-🚀 Ongoing: Adding more DevOps tools and Cloud concepts step by step.
+My-learning/
+│── README.md
+│
+├── Linux/
+│   ├── basics.md
+│   ├── commands.md
+│   └── notes.md
+│
+├── AWS/
+│   ├── ec2.md
+│   ├── s3.md
+│   ├── vpc.md
+│   ├── iam.md
+│   └── efs.md
+│
+├── Kubernetes/
+│   ├── basics.md
+│   ├── pods.md
+│   ├── services.md
+│   ├── deployments.md
+│   └── yaml-examples.md
+│
+├── Programming/
+│   └── Python/
+│       ├── basics.md
+│       ├── oops.md
+│       ├── projects.md
+│       └── sample.py
+│
+└── Projects/
+    ├── devops-labs.md
+    ├── aws-labs.md
+    ├── kubernetes-labs.md
+    └── python-mini-projects.md
