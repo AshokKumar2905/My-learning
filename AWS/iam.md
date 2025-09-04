@@ -1,7 +1,19 @@
-# AWS IAM (Identity and Access Management)
+# AWS IAM
 
-- Manages users, roles, and permissions
+## Basics
+- Manage users, roles, and permissions
 - Best practices:
-  - Use least privilege principle
+  - Least privilege
   - Enable MFA
-  - Assign roles to services, not just users
+  - Roles for services
+
+## Advanced Features
+- Service-linked roles
+- IAM policies in JSON
+- Temporary credentials via STS
+
+## CLI Examples
+aws iam create-user --user-name DevUser
+aws iam attach-user-policy --user-name DevUser --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
+aws iam create-role --role-name MyEC2Role --assume-role-policy-document file://trust-policy.json
+
