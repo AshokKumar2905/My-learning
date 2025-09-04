@@ -63,7 +63,7 @@ My-learning/
 │   ├── services.md  
 │   ├── deployments.md  
 │  
-├── [Programming](Programming//Python/)
+├── [Programming](Programming/Python/)
 │   ├── basics.md  
 │   ├── oops.md  
 
