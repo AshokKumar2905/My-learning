@@ -12,8 +12,5 @@
 ## CLI Examples
 aws dynamodb create-table --table-name Users --attribute-definitions AttributeName=UserID,AttributeType=S --key-schema AttributeName=UserID,KeyType=HASH --billing-mode PAY_PER_REQUEST
 aws dynamodb list-tables
-
-## Mini Lab
-- Create table
-- Insert sample data
-- Query data using CLI
+ 
+ 
