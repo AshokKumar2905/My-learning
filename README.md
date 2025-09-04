@@ -62,19 +62,10 @@ My-learning/
 │   ├── pods.md  
 │   ├── services.md  
 │   ├── deployments.md  
-│   └── yaml-examples.md  
 │  
 ├── [Programming/Python](Programming/Python/)  
-│   ├── basics.md  
-│   ├── oops.md  
-│   ├── projects.md  
-│   └── sample.py  
-│  
-└── [Projects](Projects/)  
-    ├── devops-labs.md  
-    ├── aws-labs.md  
-    ├── kubernetes-labs.md  
-    └── python-mini-projects.md  
+   ├── basics.md  
+   ├── oops.md  
 
 ---
 
