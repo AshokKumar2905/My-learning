@@ -66,3 +66,5 @@ My-learning/
 - 🚀 Build **CI/CD pipelines** with GitHub Actions & Jenkins  
 - 🐳 Master **Docker & Kubernetes (Advanced Concepts)**  
 - ☁️ Explore **AWS Advanced Services (EKS, RDS, CloudFront, etc.)**
+HEAD
+30ecde8 (Resolved README.md conflict and updated file)
