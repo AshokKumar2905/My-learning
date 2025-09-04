@@ -63,9 +63,9 @@ My-learning/
 │   ├── services.md  
 │   ├── deployments.md  
 │  
-├── [Programming](Programming/Python/)
-│   ├── basics.md  
-│   ├── oops.md  
+├── [Programming](Programming/)
+│   ├── basics.md
+│   ├── oops.md
 
 ---
 
