@@ -40,7 +40,7 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository
 
 [**Linux**](Linux/)
 [**AWS**](AWS/)
