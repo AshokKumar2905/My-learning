@@ -57,13 +57,13 @@ My-learning/
 │   ├── iam.md  
 │   └── efs.md  
 │  
-├── [Kubernetes](Kubernetes/)  
-│   ├── basics.md  
-│   ├── pods.md  
-│   ├── services.md  
-│   └── deployments.md  
-│  
-├── [Programming](Programming/)
+├── Kubernetes
+│   ├── basics.md
+│   ├── pods.md
+│   ├── services.md
+│   └── deployments.md
+│
+├── Programming
 │   ├── basics.md
 │   └── oops.md
 
