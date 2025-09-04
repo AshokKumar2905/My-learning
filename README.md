@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/AshokKumar2905/My-learning)
+![GitHub last commit](https://img.shields.io/github/last-commit/AshokKumar2905/My-learning)
+![GitHub stars](https://img.shields.io/github/stars/AshokKumar2905/My-learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AshokKumar2905/My-learning?style=social)
 # 📘 My Learning Repository
 
 This repository contains all my notes, projects, and practice work from the courses I completed on **Udemy**.
