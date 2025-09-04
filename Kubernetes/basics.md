@@ -7,4 +7,4 @@
   - Pod: Smallest deployable unit (1+ containers)
 - Concepts:
   - Deployment, Service, ReplicaSet
-  - Namespaces for isolation
+  
