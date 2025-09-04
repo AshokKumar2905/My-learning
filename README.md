@@ -42,30 +42,14 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 
 ## 📂 Repository Structure
 
- My-learning/
-├── [README.md](README.md)
-│
-├── [Linux](Linux/)
-│   ├── basics.md
-│   ├── commands.md
-│   └── notes.md
-│
-├── [AWS](AWS/)
-│   ├── ec2.md
-│   ├── s3.md
-│   ├── vpc.md
-│   ├── iam.md
-│   └── efs.md
-│
-├── [Kubernetes](Kubernetes/)
-│   ├── basics.md
-│   ├── pods.md
-│   ├── services.md
-│   └── deployments.md
-│
-└── [Programming](Programming/)
-    ├── basics.md
-    └── oops.md
+| Category      | Files / Submodules                                                                 |
+|---------------|------------------------------------------------------------------------------------|
+| **Linux**     | `basics.md`, `commands.md`, `notes.md`                                             |
+| **AWS**       | `ec2.md`, `s3.md`, `vpc.md`, `iam.md`, `efs.md`                                    |
+| **Kubernetes**| `basics.md`, `pods.md`, `services.md`, `deployments.md`                            |
+| **Programming**| `basics.md`, `oops.md`                                                            |
+| **Root Files**| `README.md`                                                                        |
+
 
 ---
 
