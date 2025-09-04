@@ -44,27 +44,27 @@ See full details here: [Completed_Courses.md](Completed_Courses.md)
 
  My-learning/
 │
-├── README.md
+├── [README.md](README.md/)
 │
-├── Linux/
+├── [Linux](Linux/)
 │   ├── basics.md
 │   ├── commands.md
 │   └── notes.md
 │
-├── AWS/
+├── [AWS](AWS/)
 │   ├── ec2.md
 │   ├── s3.md
 │   ├── vpc.md
 │   ├── iam.md
 │   └── efs.md
 │
-├── Kubernetes/
+├── [Kubernetes](Kubernetes/)
 │   ├── basics.md
 │   ├── pods.md
 │   ├── services.md
 │   └── deployments.md
 │
-└── Programming/
+└── [Programming](Programming/)
     ├── basics.md
     └── oops.md
 
