@@ -3,6 +3,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/AshokKumar2905/My-learning?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AshokKumar2905/My-learning?style=social)
 
+## 👨‍💻 About Me
+- Name: **Ashok Kumar D.**
+- 🎓 B.E. Computer Science and Engineering (Anna University)  
+- 💻 Python Full Stack Developer | DevOps Learner  
+- 🌍 From Mannargudi, Tamil Nadu, India  
+- ⚡ Hobbies: Playing cricket 🏏, Listening to music 🎶
+
 # My Learning Repository
 
 Welcome to my personal **Learning Repository**!  
@@ -16,7 +23,17 @@ It includes **notes, hands-on labs, and projects** from various courses and self
 - [📂 Repository Structure](#-repository-structure)
 - [🎯 Future Learning Goals](#-future-learning-goals)
 
----
+--- 
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+--- 
 
 ## ✅ Completed Courses
 See full details here: [Completed_Courses.md](Completed_Courses.md)
